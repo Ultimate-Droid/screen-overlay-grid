@@ -79,8 +79,6 @@ Configuration includes:
 - Lock state
 - Grid mode and visibility
 
-You can manually edit this file if needed, though the app manages it automatically.
-
 ## File Structure
 
 ```
